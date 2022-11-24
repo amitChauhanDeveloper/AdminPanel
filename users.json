@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6374c3c349ce9f1900647866"
+  },
+  "isAdmin": true,
+  "name": "amit",
+  "email": "admin@example.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f562bc1836432bc957115"
+  },
+  "isAdmin": false,
+  "name": "ankit rai",
+  "email": "ankit@gmail.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f5ea2cb6f55289045ec85"
+  },
+  "isAdmin": false,
+  "name": "raj",
+  "email": "raj@gmail.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f9758ef62b517706a8a73"
+  },
+  "isAdmin": false,
+  "name": "Chauhan Amit",
+  "email": "amitharidwarchauhan@gmail.com",
+  "password": "12345",
+  "__v": 0
+}]
